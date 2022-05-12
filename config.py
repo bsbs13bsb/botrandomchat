@@ -19,5 +19,5 @@ session_time = 60*20 # 20m
 
 # لسهولة استعمال المتغيرات بين الملفات
 import telebot
-bot = telebot.TeleBot(TOKEN)
-botName = bot.get_me().first_name
+bot = telebot.TeleBot(5358874912:AAH-FwXogXSsEEIHCCR9tMQkUjMi1RcVz-s)
+botName   =   bot . get_me (hashem). الاسم  الأول
